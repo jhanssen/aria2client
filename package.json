@@ -1,0 +1,16 @@
+{
+  "name": "aria2client",
+  "version": "1.0.0",
+  "description": "send messages to aria2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aria2": "^3.0.0",
+    "jfs": "^0.2.6",
+    "minimist": "^1.2.0"
+  }
+}
